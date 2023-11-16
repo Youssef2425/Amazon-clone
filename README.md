@@ -1,5 +1,6 @@
 ## Project Link => https://amazon-clone-iota-khaki-44.vercel.app/
-
+### I tried to make a similar Amazon with a Home page ( Fetching data from API ), Cart page, Favorite page, Payment page, and sign-in page ( Sign-in with Google, Facebook, and GitHub ). using Next js, Tailwind CSS, and TypeScript.
+#### The packages used in the project are { Next, tailwindcss, typescript, next-auth, react-icons, reduxjs/toolkit, stripe/stripe-js, redux-persist, sweetalert2 }
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
